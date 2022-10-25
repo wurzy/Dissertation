@@ -1,4 +1,4 @@
-I Want To Solve Questions About...
+Hypatiamat - I Want To Solve Questions About...
 ====================================
 
 Master's Dissertation - Software Engineering, October 2022
@@ -44,7 +44,7 @@ When citing this paper, please use the following BibTeX entry:
 ```
 @mastersthesis{valtercarvalho2022hypatiamat,
     author = {Válter Carvalho},
-    title = {I Want To Solve Questions About...},
+    title = {Hypatiamat - I Want To Solve Questions About...},
     school = {University of Minho},
     year = {2022},
     month = {10}
