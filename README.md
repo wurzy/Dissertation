@@ -3,7 +3,7 @@ Hypatiamat - I Want To Solve Questions About...
 
 Master's Dissertation - Software Engineering, October 2022
 
-_Defended On_: November, 2022
+_Defended On_: TBD
 
 _Author_: [Válter Carvalho][valtercarvalho]
 
