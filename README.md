@@ -1,9 +1,9 @@
 Hypatiamat - I Want To Solve Questions About...
 ====================================
 
-Master's Dissertation - Software Engineering, October 2022
+Master's Dissertation - Informatics Engineering (Software Engineering)
 
-_Defended On_: TBD
+_Defended On_: 29th November, 2022
 
 _Author_: [Válter Carvalho][valtercarvalho]
 
@@ -47,7 +47,7 @@ When citing this paper, please use the following BibTeX entry:
     title = {Hypatiamat - I Want To Solve Questions About...},
     school = {University of Minho},
     year = {2022},
-    month = {10}
+    month = {11}
 }
 ```
 
