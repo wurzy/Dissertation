@@ -36,7 +36,7 @@ It features a two-step validation process, where any form submission gets quaran
 
 It also has a table where the teachers can choose to hide the question from the students, an ordering system for the theme selector, image linking, search tables with filters and many more other administrative functionalities.
 
-This one is blocked from public access by an authentication lyaer, as it contains sensitive data from the platform and its intended use is only for the owners.
+This one is blocked from public access by an authentication layer, as it contains sensitive data from the platform and its intended use is only for the owners.
 
 ## BibTeX Entry
 
