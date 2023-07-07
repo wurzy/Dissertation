@@ -5,7 +5,13 @@ Master's Dissertation - Informatics Engineering (Software Engineering)
 
 _Defended On_: 29th November, 2022
 
+_Evaluated On_: 13th December, 2022
+
 _Author_: [Válter Carvalho][valtercarvalho]
+
+_Mirrors:_ 
+- https://hdl.handle.net/1822/84392
+- https://repositorium.sdum.uminho.pt/handle/1822/84392
 
 ## Description
 
@@ -43,11 +49,11 @@ This one is blocked from public access by an authentication layer, as it contain
 When citing this paper, please use the following BibTeX entry:
 ```
 @mastersthesis{valtercarvalho2022hypatiamat,
-    author = {Válter Carvalho},
+    author = {Carvalho, Válter},
     title = {Hypatiamat - I Want To Solve Questions About...},
-    school = {University of Minho},
+    school = {University of Minho, Portugal},
     year = {2022},
-    month = {11}
+    month = {12}
 }
 ```
 
